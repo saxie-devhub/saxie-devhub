@@ -58,8 +58,8 @@ I am open to internships, collaborations, and tech opportunities in software eng
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=saxie-devhub&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saxie-devhub&theme=tokyonight" width="48%"/>
 </p>
 
 ---
