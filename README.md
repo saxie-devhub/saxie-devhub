@@ -59,6 +59,15 @@
   <img src="https://img.shields.io/badge/Penetration_Testing-BD0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
+<!-- Tools I Use -->
+<h2>🧰 Tools I Use</h2>
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
 <h2>📂 Featured Projects</h2>
 <ul>
   <li>🔎 <a href="ca://s?q=Algorithms_and_Data_Structures_project">Algorithms Visualizer</a> → Interactive BFS, DFS, and Dijkstra pathfinding</li>
