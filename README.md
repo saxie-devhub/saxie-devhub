@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm Saxie</h1>
+<h1>👋 Hi, I'm Mary Wambui</h1>
 <p>🎓 Computer Science Student | 💻 Aspiring Software Developer | 🌍 Tech Enthusiast</p>
 
 <!-- Badges -->
@@ -13,7 +13,7 @@
 
 <h2>🚀 About Me</h2>
 <ul>
-  <li>🎓 Year 3.2 at <strong>Kiriri University of Science and Technology</strong></li>
+  <li>🎓 Year 4.1 at <strong>Kiriri University of Science and Technology</strong></li>
   <li>💡 Passionate about <strong>algorithms, problem-solving, and modern technologies</strong></li>
   <li>🌱 Exploring <strong>AI, Cloud Computing, Cybersecurity, and Data Science</strong> to become industry‑ready</li>
   <li>🔭 Open to <strong>internships, collaborations, and remote opportunities</strong></li>
